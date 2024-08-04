@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "cross-platform-password-manager\\out\\build\\x64-debug",
+      "cross-platform-password-manager\\out\\install\\x64-debug",
+      "cross-platform-password-manager\\out\\build\\x64-release",
+      "cross-platform-password-manager\\out\\install\\x64-release",
+      "cross-platform-password-manager\\out\\build\\x86-debug",
+      "cross-platform-password-manager\\out\\install\\x86-debug",
+      "cross-platform-password-manager\\out\\build\\x86-release",
+      "cross-platform-password-manager\\out\\install\\x86-release"
+    ]
+  }
+}

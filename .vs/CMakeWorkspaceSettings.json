@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "cross-platform-password-manager"
+}
